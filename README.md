@@ -1,2 +1,2 @@
 # Python_R_practice
-Practicing Python(jupyter) and R 
+Practicing Python and R 
